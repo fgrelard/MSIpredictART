@@ -12,14 +12,6 @@ You can now use the tools in MSIpredictART.
 
 ## Usage
 
-
-The core of the Esmraldi library is contained in the `esmraldi`
-directory.
-
-The `examples` directory contains various scripts to process MSI data.
-
-The `gui` directory is everything GUI related (views and controllers).
-
 ### General script usage
 
 Several examples are available for each step of the fusion workflow.
